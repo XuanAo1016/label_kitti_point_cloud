@@ -32,7 +32,7 @@ pip install pymp-pypi
 Run
 ```
 ##Explaination
-python label_kitti_point_cloud.py /input_folder/ /output_folder/ valid_distance with_label num_thread
+python label_kitti_point_cloud.py /input_folder/ /output_folder/ valid_distance has_label num_thread
 
 ##Example
 ####for training set
