@@ -10,6 +10,8 @@ If you have any questions, please let me know.
 
 Some of the code is from: https://github.com/barrykui/kitti_object_vis
 
+![screenshot](view.PNG)
+
 ## Dataset
 
 Download the data (calib, label\_2, velodyne) from [Kitti Object Detection Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
