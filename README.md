@@ -21,13 +21,13 @@ training
 testing
     velodyne
 ```
-##Requirements
+Requirements
 ```
 pip install laspy
 pip install numpy
 pip install pymp-pypi
 ```
-##Run
+Run
 ```
 ##Explaination
 python label_kitti_point_cloud.py /input_folder/ /output_folder/ valid_distance with_label num_thread
