@@ -6,6 +6,8 @@ This tool could annotate the KITTI Velodyne point cloud with the label.
 I found there is no such tool could do this.
 It's simple but I prefer there is some code available directly.
 
+Time: Using 8 CPU core may take a night for all the training set.
+
 If you have any questions, please let me know.
 
 Some of the code is from: https://github.com/barrykui/kitti_object_vis
