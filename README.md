@@ -7,8 +7,8 @@ I found there is no such tool could do this.
 It's simple but I prefer there is some code available directly.
 
 Time:
-    Trainig: Using 8 CPU core may take around whole night.
-   
+
+    Trainig: Using 8 CPU core may take around whole night.   
     Testing: Using 8 CPU core may take around 30min.
 
 
