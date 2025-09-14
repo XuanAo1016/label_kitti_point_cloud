@@ -2,9 +2,7 @@
 
 ## Introduction
 
-This tool could annotate the KITTI Velodyne point cloud with the label.
-I found there is no such tool could do this.
-It's simple but I prefer there is some code available directly.
+Developed a tool to annotate KITTI Velodyne point clouds with labels, addressing the lack of existing solutions for this task. The tool provides a straightforward and efficient way to generate labeled point cloud data, with code readily available for integration into autonomous driving or 3D perception workflows.
 
 Time:
 
